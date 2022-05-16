@@ -1,0 +1,455 @@
+# depslib dependency file v1.0
+1575240376 source:c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"grafika.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"toplista.h"
+	"dintomb.h"
+
+1573944116 source:c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\keyboard.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	"keyboard.h"
+
+1573943920 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\keyboard.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+
+1575073235 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1575073229 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575239326 source:c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\grafika.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"grafika.h"
+	"adatszerkezetek.h"
+
+1575239325 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\grafika.h
+	"adatszerkezetek.h"
+
+1575236678 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\adatszerkezetek.h
+
+1575239350 source:c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\ingame.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+
+1575239326 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\ingame.h
+
+1575237632 source:c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\toplista.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"toplista.h"
+
+1575240266 source:c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\dintomb.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"dintomb.h"
+
+1575240266 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\dintomb.h
+	"adatszerkezetek.h"
+
+1575236832 c:\users\jakos\onedrive\desktop\prog\nhf-aknakeresõ\aknakereso\toplista.h
+	"adatszerkezetek.h"
+
+1575240268 source:c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\dintomb.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"dintomb.h"
+
+1575073236 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1575073230 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1575492364 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\adatszerkezetek.h
+
+1575240268 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\dintomb.h
+	"adatszerkezetek.h"
+
+1575496416 source:c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\grafika.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"grafika.h"
+	"adatszerkezetek.h"
+	"debugmalloc.h"
+
+1575496408 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\grafika.h
+	"adatszerkezetek.h"
+
+1575498141 source:c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\ingame.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"grafika.h"
+
+1575496408 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\ingame.h
+
+1575498345 source:c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"grafika.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"toplista.h"
+	"dintomb.h"
+
+1575496507 c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\toplista.h
+	"adatszerkezetek.h"
+
+1575498786 source:c:\users\jakos\onedrive\desktop\juhaszb\aknakereso\toplista.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"toplista.h"
+	"grafika.h"
+
+1576258751 source:c:\users\jakos\onedrive\desktop\proghf\aknakereso\dintomb.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"dintomb.h"
+
+1575073236 c:\users\jakos\onedrive\desktop\proghf\aknakereso\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1575073230 c:\users\jakos\onedrive\desktop\proghf\aknakereso\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1576258580 c:\users\jakos\onedrive\desktop\proghf\aknakereso\adatszerkezetek.h
+
+1576250312 c:\users\jakos\onedrive\desktop\proghf\aknakereso\dintomb.h
+	"adatszerkezetek.h"
+
+1576955323 source:c:\users\jakos\onedrive\desktop\proghf\aknakereso\grafika.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"grafika.h"
+	"adatszerkezetek.h"
+	"debugmalloc.h"
+	"toplista.h"
+
+1576955309 c:\users\jakos\onedrive\desktop\proghf\aknakereso\grafika.h
+	"adatszerkezetek.h"
+
+1576957666 source:c:\users\jakos\onedrive\desktop\proghf\aknakereso\ingame.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"grafika.h"
+
+1576806829 c:\users\jakos\onedrive\desktop\proghf\aknakereso\ingame.h
+
+1577018867 source:c:\users\jakos\onedrive\desktop\proghf\aknakereso\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"grafika.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"toplista.h"
+	"dintomb.h"
+
+1576255924 c:\users\jakos\onedrive\desktop\proghf\aknakereso\toplista.h
+	"adatszerkezetek.h"
+
+1576273322 source:c:\users\jakos\onedrive\desktop\proghf\aknakereso\toplista.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"toplista.h"
+	"grafika.h"
+
+1576262351 source:c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\dintomb.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"dintomb.h"
+
+1575076836 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\debugmalloc.h
+	<stdbool.h>
+	"debugmalloc-impl.h"
+
+1575076830 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\debugmalloc-impl.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1576262180 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\adatszerkezetek.h
+
+1576253912 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\dintomb.h
+	"adatszerkezetek.h"
+
+1576958923 source:c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\grafika.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"grafika.h"
+	"adatszerkezetek.h"
+	"debugmalloc.h"
+	"toplista.h"
+
+1576958909 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\grafika.h
+	"adatszerkezetek.h"
+
+1576259524 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\toplista.h
+	"adatszerkezetek.h"
+
+1576961266 source:c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\ingame.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"grafika.h"
+
+1576810429 c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\ingame.h
+
+1577022467 source:c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\main.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"grafika.h"
+	"adatszerkezetek.h"
+	"ingame.h"
+	"toplista.h"
+	"dintomb.h"
+
+1576276922 source:c:\users\jakos\documents\bme\1.félév\prog1\aknakereso-funky\toplista.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL2_gfxPrimitives.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	<SDL2/SDL_image.h>
+	<time.h>
+	"debugmalloc.h"
+	"adatszerkezetek.h"
+	"toplista.h"
+	"grafika.h"
+
